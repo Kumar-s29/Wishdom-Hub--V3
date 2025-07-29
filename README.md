@@ -36,7 +36,7 @@ Follow these steps to run the project locally.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Kumar-s29/#.git
+   git clone https://github.com/Kumar-s29/Wishdom-Hub--V3.git
    cd Wisdom-Hub
    ```
 
@@ -90,10 +90,10 @@ Kumara Swamy Swayamvarapu [GitHub](https://github.com/Kumar-s29)
 
 ## Deployment Links
 
-[Wisdom Hub Frontend](#)
-[Wisdom Hub Backend](#)
+[Wisdom Hub Frontend](https://wishdom-hub-frontend.onrender.com)
+[Wisdom Hub Admin](https://wishdom-hub-admin.onrender.com)
+[Wisdom Hub Backend](https://wishdom-hub-backend.onrender.com)
 
-_(Replace `#` with actual deployment URLs when ready.)_
 
 ## Contact
 
