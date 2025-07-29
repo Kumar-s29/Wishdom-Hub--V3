@@ -33,7 +33,7 @@ import doc15 from "./doc15.png";
 import Dermatologist from "./teacher.png";
 import Gastroenterologist from "./businessman.png";
 import General_physician from "./it-department.png";
-import Gynecologist from "./general_physician.svg";
+import Gynecologist from "./General_physician.svg";
 import Neurologist from "./artist.png";
 import Pediatricians from "./career.png";
 
